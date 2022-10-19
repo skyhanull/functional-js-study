@@ -5,7 +5,6 @@
   <td align="center"><a href="https://github.com/hyejj19"><img src="https://avatars.githubusercontent.com/u/88266129?v=4" width="100px;" alt=""/><br /><sub><b>@HA-SEUNG-JEONG</b></sub></a><br /></td>
      <td align="center"><a href="https://github.com/hyejj19"><img src="https://avatars.githubusercontent.com/u/89173923?v=4" width="100px;" alt=""/><br /><sub><b>@hyejj19</b></sub></a><br /></td>
      <td align="center"><a href="https://github.com/skyhanull"><img src="https://avatars.githubusercontent.com/u/106054006?v=4" width="100px;" alt=""/><br /><sub><b>@skyhanull</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/MinaRoh"><img src="https://avatars.githubusercontent.com/u/53070295?v=4" width="100px;" alt=""/><br /><sub><b>@MinaRoh</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/Exist95"><img src="https://avatars.githubusercontent.com/u/96723716?v=4" width="100px;" alt=""/><br /><sub><b>@Exist95</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/Withlaw"><img src="https://avatars.githubusercontent.com/u/98410418?v=4" width="100px;" alt=""/><br /><sub><b>@Withlaw</b></sub></a><br /></td>
     
@@ -13,7 +12,6 @@
       <td align="center">하승✨</td>
       <td align="center">혜정님</td>
       <td align="center">윤경님</td>
-      <td align="center">민하님</td>
       <td align="center">종열님</td>
       <td align="center">상헌님</td>
 </tr>
